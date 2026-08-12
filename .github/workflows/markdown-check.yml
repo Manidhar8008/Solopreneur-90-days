@@ -1,0 +1,15 @@
+name: Markdown Check
+on:
+  push:
+  pull_request:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check markdown files exist
+        run: |
+          test -f README.md
+          test -f journey/90-day-roadmap.md
+          test -f pathways/occupation-to-business.md
+          test -f frameworks/founder-os.md
