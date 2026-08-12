@@ -8,7 +8,44 @@
 [![90 Days](https://img.shields.io/badge/Program-90%20Days-5E5CE6?style=for-the-badge)](journey/90-day-roadmap.md)
 [![Founder OS](https://img.shields.io/badge/Model-Founder%20OS-111111?style=for-the-badge)](frameworks/founder-os.md)
 
+
+## 🧭 V3 — From Knowledge Library to Personal Solopreneur OS
+
+**Start here:** [START-HERE.md](START-HERE.md)
+
+The repository is organized around eight simple actions:
+
+```mermaid
+flowchart LR
+A[01 Know Yourself] --> B[02 Find a Problem]
+B --> C[03 Find a Customer]
+C --> D[04 Create an Offer]
+D --> E[05 Get Paid]
+E --> F[06 Deliver Results]
+F --> G[07 Build Your System]
+G --> H[08 Build Your Company]
+```
+
+### Three layers
+
+**1. Learn** — the eight beginner modules and resource library.
+
+**2. Reality** — the uncomfortable facts that prevent entrepreneurship from becoming fantasy.
+
+**3. Personalize** — your context + the knowledge graph + your own AI agent.
+
+Start with:
+- [Start Here](START-HERE.md)
+- [Dark Truths](dark-truths/README.md)
+- [Market Realities](MARKET-REALITIES.md)
+- [AI / Bring Your Own Agent](ai/README.md)
+- [Personal Context](ai/context-template.md)
+- [Knowledge Graph](graph/README.md)
+- [Pathfinder Tool](tools/solopreneur-pathfinder.py)
+- [V3 Audit](V3-AUDIT.md)
+
 ---
+
 
 ## The idea
 

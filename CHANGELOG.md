@@ -1,13 +1,29 @@
 # Changelog
 
-## v2.0.0 — Founder Operating System
+## v3.0.0 — Personal Solopreneur OS
 
-- Reframed the project around Occupation → Market Gap → Capability → Customer → Company.
-- Added Founder Manifesto.
-- Added glossary.
-- Added technology decision matrix.
-- Added revenue-math CLI.
-- Added customer interview script.
-- Added Week 1 execution checklist.
-- Added anti-patterns.
-- Established the V2 roadmap for interactive utilities, evidence, community, and distribution.
+### User experience
+- Added `START-HERE.md` as the primary front door.
+- Reorganized the beginner journey into eight plain-language modules.
+- Added V3 audit documenting the architecture change.
+
+### Reality layer
+- Added dark-truth library.
+- Added evidence-backed market realities with external sources.
+- Added explicit distinction between evidence, practical truth, and inference.
+
+### Personal AI layer
+- Added provider-neutral AI instructions.
+- Added personal context schema.
+- Added context template.
+- Added knowledge-graph schema and machine-readable graph.
+
+### Tools
+- Added a zero-dependency Solopreneur Pathfinder CLI.
+- Added tool roadmap.
+
+### Community
+- Added evidence-first contribution guidance.
+- Added case-study template.
+
+V3 goal: **help a person start from zero and know what to do next.**

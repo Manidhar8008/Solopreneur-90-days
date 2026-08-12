@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    "person", "occupation", "skill", "constraint", "vertical",
+    "customer", "problem", "gap", "capability", "business_model",
+    "offer", "technology", "experiment", "customer_result",
+    "revenue", "system", "company"
+  ],
+  "edges": [
+    ["person", "has_occupation", "occupation"],
+    ["person", "has_skill", "skill"],
+    ["person", "has_constraint", "constraint"],
+    ["occupation", "exposes_to", "vertical"],
+    ["vertical", "has_customer", "customer"],
+    ["customer", "experiences", "problem"],
+    ["problem", "creates", "gap"],
+    ["gap", "requires", "capability"],
+    ["capability", "enables", "offer"],
+    ["offer", "serves", "customer"],
+    ["offer", "uses", "technology"],
+    ["experiment", "tests", "offer"],
+    ["offer", "produces", "customer_result"],
+    ["customer_result", "produces", "revenue"],
+    ["system", "enables", "company"]
+  ]
+}

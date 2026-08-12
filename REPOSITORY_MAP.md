@@ -1,39 +1,35 @@
-# Repository Map
+# Repository Map — V3
 
 ```text
-.github/ISSUE_TEMPLATE/market-experiment.md
-.github/pull_request_template.md
-.github/workflows/markdown-check.yml
-.gitkeep
-CODE_OF_CONDUCT.md
-CONTRIBUTING.md
-LICENSE
-README.md
-acquisition/README.md
-business-models/README.md
-case-studies/mw-ai-system.md
-frameworks/README.md
-frameworks/founder-os.md
-frameworks/revenue-math.md
-frameworks/roi.md
-frameworks/vertical-selection.md
-journey/90-day-roadmap.md
-journey/README.md
-journey/daily-tracker.md
-mw-ai/README.md
-pathways/README.md
-pathways/developer.md
-pathways/employee.md
-pathways/founder.md
-pathways/freelancer.md
-pathways/non-it.md
-pathways/occupation-to-business.md
-pathways/student.md
-resources/reading-map.md
-technology/README.md
-technology/stack.md
-templates/README.md
-templates/occupation-market-gap-audit.md
-templates/weekly-founder-review.md
-verticals/README.md
+START-HERE.md
+│
+├── 01-know-yourself/
+├── 02-find-a-problem/
+├── 03-find-a-customer/
+├── 04-create-an-offer/
+├── 05-get-paid/
+├── 06-deliver-results/
+├── 07-build-your-system/
+└── 08-build-your-company/
+        │
+        ├── pathways/
+        ├── verticals/
+        ├── business-models/
+        ├── acquisition/
+        ├── frameworks/
+        ├── technology/
+        ├── templates/
+        ├── case-studies/
+        ├── resources/
+        ├── dark-truths/
+        ├── ai/
+        ├── graph/
+        ├── tools/
+        └── mw-ai/
 ```
+
+## Design rule
+
+The first eight folders are the learner journey.
+
+Everything else exists to support the journey.

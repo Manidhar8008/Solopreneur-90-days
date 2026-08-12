@@ -1,0 +1,54 @@
+profile:
+  name: ""
+  location: ""
+  occupation: ""
+  experience_years: 0
+
+assets:
+  skills: []
+  domain_knowledge: []
+  network: []
+  audience: []
+  tools: []
+  credibility: []
+
+constraints:
+  hours_per_week: 0
+  budget: 0
+  financial_runway: ""
+  employment_status: ""
+  risk_tolerance: ""
+
+goals:
+  first_customer: false
+  first_revenue: false
+  target_monthly_income: 0
+  target_annual_revenue: 0
+  desired_work_style: ""
+
+market:
+  verticals_considered: []
+  customer_types: []
+  problems: []
+  evidence: []
+
+business:
+  business_model: ""
+  offer: ""
+  price: 0
+  customers: []
+  revenue: 0
+  recurring_revenue: 0
+
+capabilities:
+  strong: []
+  learning: []
+  missing: []
+
+journey:
+  current_stage: "01-know-yourself"
+  completed_days: 0
+  experiments: []
+  wins: []
+  failures: []
+  next_action: ""
