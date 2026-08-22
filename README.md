@@ -2,18 +2,32 @@
 
 ### Turn your occupation into a company.
 
-> An open-source operating system for founders, developers, employees, freelancers, and students who want to build independent economic capability **while still working inside the real market**.
+> An open-source operating system for founders, developers, employees, freelancers, and students who want to build independent economic capability while working inside the real market.
 
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-000000?style=for-the-badge)](LICENSE)
 [![90 Days](https://img.shields.io/badge/Program-90%20Days-5E5CE6?style=for-the-badge)](journey/90-day-roadmap.md)
 [![Founder OS](https://img.shields.io/badge/Model-Founder%20OS-111111?style=for-the-badge)](frameworks/founder-os.md)
 
+## 🧭 The project
 
-## 🧭 V3 — From Knowledge Library to Personal Solopreneur OS
+**Solopreneur 90 Days is an open-source market-first apprenticeship.** It turns knowledge into evidence: a market, a customer problem, an offer, a sale, a delivery system, and eventually a company.
 
-**Start here:** [START-HERE.md](START-HERE.md)
+This repository is the **free/open layer**. A separate paid program can sit on top of it with coaching, accountability, implementation support, private playbooks, reviews, and a client-acquisition guarantee. See [Open Source vs Paid](premium/OPEN-SOURCE-VS-PAID.md).
 
-The repository is organized around eight simple actions:
+### Start here
+
+1. [START-HERE.md](START-HERE.md) — choose your entry point.
+2. [90-Day Roadmap](journey/90-day-roadmap.md) — execute the system.
+3. [Market Realities](MARKET-REALITIES.md) — remove fantasy from the plan.
+4. [Occupation → Market Gap Audit](templates/occupation-market-gap-audit.md) — find your leverage.
+5. [Vertical Selection](frameworks/vertical-selection.md) — choose a narrow market.
+6. [Business Model Matrix](business-models/README.md) — choose how you get paid.
+7. [Acquisition](acquisition/README.md) — turn conversations into pipeline.
+8. [Technology Stack](technology/stack.md) — use technology as leverage, not decoration.
+9. [AI / Bring Your Own Agent](ai/README.md) — use AI to compress research, building, and execution.
+10. [Knowledge Graph](graph/README.md) — connect your learning and evidence.
+
+## The 8-stage operating system
 
 ```mermaid
 flowchart LR
@@ -26,154 +40,66 @@ F --> G[07 Build Your System]
 G --> H[08 Build Your Company]
 ```
 
-### Three layers
+The sequence is deliberately simple:
 
-**1. Learn** — the eight beginner modules and resource library.
+**Capability → Problem → Customer → Offer → Sale → Result → System → Company.**
 
-**2. Reality** — the uncomfortable facts that prevent entrepreneurship from becoming fantasy.
+## The 90-day progression
 
-**3. Personalize** — your context + the knowledge graph + your own AI agent.
+| Stage | Days | Primary proof |
+|---|---:|---|
+| 0 — Baseline | 1–3 | Founder profile |
+| 1 — Market | 4–10 | Real customer problem |
+| 2 — Model | 11–17 | Business model decision |
+| 3 — Offer | 18–24 | Sellable offer |
+| 4 — Build | 25–35 | Working prototype / delivery system |
+| 5 — Acquire | 36–49 | Qualified pipeline |
+| 6 — Sell | 50–60 | First paying customer |
+| 7 — Productize | 61–70 | Repeatable delivery |
+| 8 — Scale | 71–80 | Measured acquisition + economics |
+| 9 — Founder Mode | 81–90 | Long-term company plan |
 
-Start with:
-- [Start Here](START-HERE.md)
-- [Dark Truths](dark-truths/README.md)
-- [Market Realities](MARKET-REALITIES.md)
-- [AI / Bring Your Own Agent](ai/README.md)
-- [Personal Context](ai/context-template.md)
-- [Knowledge Graph](graph/README.md)
-- [Pathfinder Tool](tools/solopreneur-pathfinder.py)
-- [V3 Audit](V3-AUDIT.md)
+The objective is not to finish 90 lessons. The objective is to finish with **economic evidence**.
 
----
-
-
-## The idea
-
-Most people learn an occupation and then spend years learning how to operate inside someone else's company.
-
-This project teaches the missing layer:
-
-**How does a person understand the market well enough to become a company?**
-
-You do not need to quit your job first.
-
-You can use your existing occupation as your starting asset, find the gap between **you → your company → your client**, learn the missing skills, and gradually build your own offer, product, service, distribution, and operating system.
+## What you should have by Day 90
 
 ```text
-YOUR OCCUPATION
-      ↓
-Skills + domain knowledge + network + energy
-      ↓
-Find the gap your employer / market is not filling
-      ↓
-Learn the missing capability
-      ↓
-Create a narrower, better offer
-      ↓
-Acquire a real customer
-      ↓
-Deliver measurable ROI
-      ↓
-Productize + automate
-      ↓
-Build your own company
-      ↓
-Decide: independent company / partnership / MW.AI opportunity
+Founder profile
++ Market map
++ Customer interviews
++ Offer
++ Prototype / delivery system
++ Outreach system
++ CRM / pipeline
++ Sales conversations
++ Customer result
++ SOPs
++ Case study
++ Revenue model
++ Next 12-month plan
 ```
 
-## What this repository is NOT
+## The core model
 
-- Not a promise of $1M in 90 days.
-- Not a motivational course.
-- Not a “quit your job” challenge.
-- Not a collection of generic startup quotes.
-
-## What it IS
-
-A **market-first apprenticeship system**.
-
-The 90 days are used to prove that you can:
-
-1. Understand a market.
-2. Identify a real customer problem.
-3. Map your current capability against the problem.
-4. Learn the missing skills.
-5. Build a solution.
-6. Acquire a customer.
-7. Deliver measurable value.
-8. Create repeatable systems.
-9. Understand where your ceiling is.
-10. Decide what to do next.
-
-## Start here
-
-### 🧭 1. Find your pathway
-
-| You are starting as... | Start here |
-|---|---|
-| Founder | [Founder → Solopreneur](pathways/founder.md) |
-| Developer / engineer | [Developer → Solopreneur](pathways/developer.md) |
-| Non-IT professional | [Non-IT → Solopreneur](pathways/non-it.md) |
-| Employee | [Employee → Solopreneur](pathways/employee.md) |
-| Student | [Student → Solopreneur](pathways/student.md) |
-| Freelancer | [Freelancer → Solopreneur](pathways/freelancer.md) |
-
-### ⚙️ 2. Run the occupation audit
-
-[Occupation → Market Gap Audit](templates/occupation-market-gap-audit.md)
-
-### 🎯 3. Choose one vertical
-
-[Vertical Selection Framework](frameworks/vertical-selection.md)
-
-### 💼 4. Choose the business model
-
-[Business Model Matrix](business-models/README.md)
-
-### 📈 5. Start the 90-day execution loop
-
-[90-Day Roadmap](journey/90-day-roadmap.md)
-
----
-
-# The core model
-
-## 1. Occupation → Capability
+### 1. Occupation → Capability
 
 Your current occupation is an **asset inventory**, not an identity prison.
 
-Ask:
+Ask what you already understand, what customers pay your employer for, what work you repeatedly perform, which systems you use, and what information you know that outsiders do not.
 
-- What do I already understand?
-- What do customers pay my employer for?
-- What work do I repeatedly perform?
-- What systems do I use?
-- What information do I know that outsiders don't?
-- What can I do faster than a beginner?
+### 2. Capability → Gap
 
-## 2. Capability → Gap
-
-Then identify the missing layer.
+Identify the smallest missing capability required to create customer value:
 
 ```text
-Technical gap
-Sales gap
-Distribution gap
-Domain gap
-Product gap
-Automation gap
-Leadership gap
-Capital gap
+Technical gap | Sales gap | Distribution gap | Domain gap
+Product gap | Automation gap | Leadership gap | Capital gap
 Communication gap
 ```
 
-The goal is not to learn everything.
+The goal is not to learn everything. It is to learn **what unlocks the next customer outcome**.
 
-The goal is to learn **the smallest missing capability required to create customer value**.
-
-## 3. Gap → Offer
-
-Convert the capability into a customer-facing outcome.
+### 3. Gap → Offer
 
 ```text
 Skill ≠ Offer
@@ -183,17 +109,13 @@ Idea ≠ Offer
 Offer = Customer problem + measurable outcome + delivery mechanism + price
 ```
 
-## 4. Offer → Customer
-
-A solopreneur needs evidence.
+### 4. Offer → Customer
 
 Evidence begins with:
 
 **conversation → proposal → sale → delivery → result**
 
-## 5. Customer → Company
-
-Once the same problem appears repeatedly:
+### 5. Customer → Company
 
 ```text
 Repeated problem
@@ -209,13 +131,9 @@ Productized service
 Software / AI product
 ```
 
-This is the **company replacement path**.
+This is the company-building path.
 
-You are gradually building the capability to provide a focused version of the value that larger companies provide.
-
----
-
-# 🧠 Founder Operating Loop
+## 🧠 Founder Operating Loop
 
 Every day:
 
@@ -229,45 +147,14 @@ Every 30 days:
 
 **Re-evaluate market, offer, economics, skills, and leverage.**
 
----
+## 💰 Revenue discipline
 
-# The 90-day progression
+This repository does **not** promise $1M in 90 days.
 
-| Stage | Days | Primary proof |
-|---|---:|---|
-| 0 — Baseline | 1–3 | Founder profile |
-| 1 — Market | 4–10 | Real customer problem |
-| 2 — Model | 11–17 | Business model decision |
-| 3 — Offer | 18–24 | Sellable offer |
-| 4 — Build | 25–35 | Working prototype / delivery system |
-| 5 — Acquire | 36–49 | Qualified pipeline |
-| 6 — Sell | 50–60 | First paying customer |
-| 7 — Productize | 61–70 | Repeatable delivery |
-| 8 — Scale | 71–80 | Measured acquisition + economics |
-| 9 — Founder Mode | 81–90 | Long-term company plan |
-
-See the complete [90-Day Roadmap](journey/90-day-roadmap.md).
-
----
-
-# 💰 The $1M model
-
-The repository **does not promise $1M in 90 days**.
-
-Instead, it teaches revenue math and the systems that can eventually support:
+It teaches the mechanics behind progressively larger outcomes:
 
 ```text
-$0
- ↓
-First sale
- ↓
-$1K
- ↓
-$10K
- ↓
-$100K
- ↓
-$1M annual revenue
+$0 → First sale → $1K → $10K → $100K → $1M annual revenue
 ```
 
 The question is always:
@@ -276,38 +163,9 @@ The question is always:
 
 See [Revenue Math](frameworks/revenue-math.md).
 
----
+## 🏭 Vertical-first thinking
 
-# 🧰 Technology as leverage
-
-Technology is selected according to the business problem.
-
-Core learning areas include:
-
-- Linux
-- Git / GitHub
-- Python
-- FastAPI
-- React / TypeScript
-- PostgreSQL / pgvector
-- APIs
-- AI / LLMs
-- Voice AI
-- Agents
-- Automation
-- Local-first systems
-- Cloud infrastructure
-- Analytics
-
-See [Technology Stack](technology/stack.md).
-
----
-
-# 🏭 Vertical-first thinking
-
-The strongest solopreneur paths often begin narrow.
-
-Examples to investigate:
+Start narrow. Examples to investigate:
 
 - Education
 - Healthcare
@@ -326,89 +184,88 @@ Examples to investigate:
 
 See [Verticals](verticals/README.md).
 
----
+## 🧰 Technology as leverage
 
-# 🤝 MW.AI ecosystem path
+Use technology according to the business problem:
 
-This curriculum uses the MW.AI ecosystem as a practical laboratory.
+- Linux
+- Git / GitHub
+- Python
+- FastAPI
+- React / TypeScript
+- PostgreSQL / pgvector
+- APIs
+- AI / LLMs
+- Voice AI
+- Agents
+- Automation
+- Local-first systems
+- Cloud infrastructure
+- Analytics
 
-Relevant examples include:
+See [Technology Stack](technology/stack.md).
 
-- **MW.AI** — vertical AI / business systems
-- **Vasuki** — personal intelligence / operating-system concepts
-- **Janani.ai** — personal intelligence / discipline-oriented product concepts
-- **Jan.ai** — media management concepts
-- **Ani.ai** — writing / memory concepts
-- **AIM1000** — job acquisition automation concepts
-- **Founder Rooms** — founder-focused application concept
+## 🔬 Case-study laboratory
 
-The possible end states are:
+The curriculum is grounded in real build patterns rather than abstract startup theory. Relevant public projects include:
 
-```text
-Build independently
-       OR
-Collaborate with MW.AI
-       OR
-Apply for real work opportunities
-       OR
-Propose a product / partnership
-       OR
-Build a founder case for funding
-```
+- [MW.AI](https://github.com/Manidhar8008) — vertical AI / business systems laboratory
+- [Vasuki Workspace](https://github.com/Manidhar8008/Vasuki_workspace) — personal intelligence / operating-system concepts
+- [Vasuki Memory Engine](https://github.com/Manidhar8008/vasuki-memory-engine) — memory and retrieval engineering
+- [Janani.ai](https://github.com/Manidhar8008/JANANI.AI) — personal intelligence / discipline-oriented product concepts
+- [Solopreneur 90 Days](https://github.com/Manidhar8008/Solopreneur-90-days) — this open curriculum
 
-None of these are automatic guarantees. The selection signal is **evidence of execution**.
+These projects are laboratories and evidence sources, not promises of outcomes for learners.
 
----
+## 🌍 Open-source mission
 
-# 🏆 What makes this repository different
+The open-source layer should become a reusable operating system for people across occupations, countries, and industries.
 
-### It is a curriculum + operating system + portfolio + talent filter.
-
-A strong learner should finish with evidence, not just completion:
-
-```text
-Founder profile
-+ Market map
-+ Customer interviews
-+ Offer
-+ Prototype
-+ Outreach system
-+ CRM
-+ Sales conversations
-+ Customer result
-+ SOPs
-+ Case study
-+ Revenue model
-+ Next 12-month plan
-```
-
-That evidence can become a portfolio, a business, an employment signal, or the foundation for a startup.
-
----
-
-# 🌍 Open-source mission
-
-This repository is designed to grow into a reusable public curriculum for students, professionals, freelancers, developers, and founders across different countries and industries.
-
-Contributions are welcome:
+Contributions should add evidence or execution leverage:
 
 - New occupation pathways
 - New verticals
-- New acquisition playbooks
-- New tools
-- New case studies
+- Acquisition playbooks
+- Tool comparisons
+- Case studies
 - Translation
-- Better exercises
+- Exercises
 - Market evidence
 - Local business examples
 - Technical labs
 
-The standard is simple:
+The standard:
 
-> **Add something that helps another person move closer to a real customer, a real capability, or a real business.**
+> **Add something that moves another person closer to a real capability, real customer, real result, or real business.**
 
----
+## 💎 The paid layer
 
-## 📜 License
+The open repository is intentionally useful on its own. The paid program is a different product: **implementation, accountability, personalization, review, and speed.**
+
+### Paid program concept
+
+**90-Day Client Engine**
+
+- Positioning: build and sell a high-value service/product around an existing capability.
+- Target outcome: secure a first client worth **₹1,00,000 within 90 days**.
+- Stated value stack: **₹25,00,000+** of frameworks, implementation assets, reviews, systems, and support.
+- Guarantee model: money-back guarantee tied to clearly published participation and execution criteria; it should be written as an auditable policy, not an unconditional claim.
+
+The paid-program architecture is documented separately so the public curriculum remains open-source:
+
+- [Open Source vs Paid](premium/OPEN-SOURCE-VS-PAID.md)
+- [Premium Program Architecture](premium/README.md)
+
+A future website can live inside this repository without mixing private course material into the open curriculum.
+
+## What this repository is NOT
+
+- Not a motivational course.
+- Not a generic startup-quote collection.
+- Not a “quit your job” challenge.
+- Not a promise of $1M in 90 days.
+- Not a substitute for market evidence or customer work.
+
+## License
 
 Open source. See [LICENSE](LICENSE).
