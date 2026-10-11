@@ -1,6 +1,6 @@
 # 🐍 Solopreneur 90 Days
 
-### Turn your occupation into a company.
+### Turn yourself into a company(brand).
 
 > An open-source operating system for founders, developers, employees, freelancers, and students who want to build independent economic capability while working inside the real market.
 
